@@ -1,2 +1,3 @@
 # CikolataliKupTarifi
-Mehmet Kırsakal [https://app.patika.dev/akslepis](patika.dev/akslepis) HTML ODEV 3
+Mehmet Kırsakal [patika.dev/akslepis](https://app.patika.dev/akslepis) HTML ODEV 3
+![](Ornek.png)
